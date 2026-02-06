@@ -2,11 +2,28 @@
 
 > **Work like Manus** — the AI agent company Meta acquired for **$2 billion**.
 
-## Thank You
+<details>
+<summary><strong>💬 A Note from the Author</strong></summary>
 
 To everyone who starred, forked, and shared this skill — thank you. This project blew up in less than 24 hours, and the support from the community has been incredible.
 
 If this skill helps you work smarter, that's all I wanted.
+
+</details>
+
+<details>
+<summary><strong>🌍 See What the Community Built</strong></summary>
+
+| Fork | Author | Features |
+|------|--------|----------|
+| [devis](https://github.com/st01cs/devis) | [@st01cs](https://github.com/st01cs) | Interview-first workflow, `/devis:intv` and `/devis:impl` commands, guaranteed activation |
+| [multi-manus-planning](https://github.com/kmichels/multi-manus-planning) | [@kmichels](https://github.com/kmichels) | Multi-project support, SessionStart git sync |
+| [plan-cascade](https://github.com/Taoidle/plan-cascade) | [@Taoidle](https://github.com/Taoidle) | Multi-level task orchestration, parallel execution, multi-agent collaboration |
+| [agentfund-skill](https://github.com/RioTheGreat-ai/agentfund-skill) | [@RioTheGreat-ai](https://github.com/RioTheGreat-ai) | Crowdfunding for AI agents with milestone-based escrow on Base |
+
+*Built something? [Open an issue](https://github.com/OthmanAdi/planning-with-files/issues) to get listed!*
+
+</details>
 
 ---
 
@@ -199,17 +216,6 @@ planning-with-files/
 ├── LICENSE
 └── README.md
 ```
-
-## Community Forks
-
-| Fork | Author | Features |
-|------|--------|----------|
-| [devis](https://github.com/st01cs/devis) | [@st01cs](https://github.com/st01cs) | Interview-first workflow, `/devis:intv` and `/devis:impl` commands, guaranteed activation |
-| [multi-manus-planning](https://github.com/kmichels/multi-manus-planning) | [@kmichels](https://github.com/kmichels) | Multi-project support, SessionStart git sync |
-| [plan-cascade](https://github.com/Taoidle/plan-cascade) | [@Taoidle](https://github.com/Taoidle) | Multi-level task orchestration, parallel execution, multi-agent collaboration |
-| [agentfund-skill](https://github.com/RioTheGreat-ai/agentfund-skill) | [RioTheGreat-ai](https://github.com/RioTheGreat-ai) | Crowdfunding for AI agents with milestone-based escrow on Base |
-
-*Built something? Open an issue to get listed!*
 
 ## Supported IDEs
 
