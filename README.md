@@ -11,7 +11,7 @@ If this skill helps you work smarter, that's all I wanted.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>🌍 See What the Community Built</strong></summary>
 
 | Fork | Author | Features |
